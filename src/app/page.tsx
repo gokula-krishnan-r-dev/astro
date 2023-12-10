@@ -468,7 +468,7 @@ export default function Home() {
                   <span className="text-blue-600 dark:text-blue-500">Love</span>
                 </h2>
                 <p className="mt-1 text-gray-500 dark:text-gray-400">
-                  Thoughts from those who've experienced Preline UI in action.
+                  Thoughts from those who ve experienced Preline UI in action.
                 </p>
               </div>
               {/* End Title */}
@@ -523,8 +523,8 @@ export default function Home() {
                         </svg>
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
-                        I don't know how to thank for such a good file, It
-                        should be paid product actually.
+                        I dont know how to thank for such a good file, It should
+                        be paid product actually.
                       </p>
                     </div>
                   </div>
@@ -561,7 +561,7 @@ export default function Home() {
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
                         Combining Tailwind CSS with Preline UI offers incredible
-                        potential. Preline UI's streamlined components and
+                        potential. Preline UIs streamlined components and
                         powerful design system can truly boost productivity. It
                         enables rapid prototyping and consistent UI, making
                         development a breeze.
@@ -690,8 +690,8 @@ export default function Home() {
                         </svg>
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
-                        Preline UI is freaking amazing. How is it free again?
-                        I'm in love man. 😍
+                        Preline UI is freaking amazing. How is it free again? Im
+                        in love man. 😍
                       </p>
                     </div>
                   </div>
@@ -714,11 +714,11 @@ export default function Home() {
                         </div>
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
-                        Continue what you're doing.{" "}
+                        Continue what youre doing.{" "}
                         <span className="font-semibold">
-                          You're such a great help to a lot of developers.
+                          Youre such a great help to a lot of developers.
                         </span>{" "}
-                        Thank you!"
+                        Thank you!
                       </p>
                     </div>
                   </div>
@@ -811,10 +811,10 @@ export default function Home() {
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
                         Hi there, I just wanted to say congrats on developing
-                        such an excellent Figma design system. I've spent months
+                        such an excellent Figma design system. ve spent months
                         going around in circles looking for something that is
-                        complete and easily nk I've found my foundation. It's
-                        really excellent work you've done here. I'm looking
+                        complete and easily nk Ive found my foundation. Its
+                        really excellent work youve done here. Im looking
                         forward to seeing where you take this.
                       </p>
                     </div>
@@ -928,7 +928,7 @@ export default function Home() {
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
                         Decide to try out @prelineUI on a new @nextjs project
-                        and have to say, it's pretty dope. Hooked on day one😄
+                        and have to say, its pretty dope. Hooked on day one😄
                       </p>
                     </div>
                   </div>
@@ -1007,8 +1007,8 @@ export default function Home() {
                         </svg>
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
-                        Preline UI is freaking amazing. How is it free again?
-                        I'm in love man. 😍
+                        Preline UI is freaking amazing. How is it free again? Im
+                        in love man. 😍
                       </p>
                     </div>
                   </div>
@@ -1031,9 +1031,9 @@ export default function Home() {
                         </div>
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
-                        Continue what you're doing.{" "}
+                        Continue what youre doing.{" "}
                         <span className="font-semibold">
-                          You're such a great help to a lot of developers.
+                          Youre such a great help to a lot of developers.
                         </span>{" "}
                         Thank you!"
                       </p>
@@ -1072,7 +1072,7 @@ export default function Home() {
                       </div>
                       <p className="text-start leading-7 text-gray-800 text-black">
                         Decide to try out @prelineUI on a new @nextjs project
-                        and have to say, it's pretty dope. Hooked on day one😄
+                        and have to say, its pretty dope. Hooked on day one😄
                       </p>
                     </div>
                   </div>
@@ -4515,7 +4515,7 @@ export default function Home() {
                   </h3>
                   <p className="mt-3 text-gray-800 dark:text-gray-200">
                     Produce professional, reliable streams easily leveraging
-                    Preline's innovative broadcast studio
+                    Prelines innovative broadcast studio
                   </p>
                   <p className="mt-5 inline-flex items-center gap-x-1 text-blue-600 decoration-2 group-hover:underline font-medium">
                     Read more
@@ -4579,7 +4579,7 @@ export default function Home() {
               {/* End Card */}
               {/* Card */}
               <a
-                className="group relative flex flex-col w-full min-h-[15rem] bg-center bg-cover rounded-xl hover:shadow-lg transition bg-[url('https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3000&q=80')] dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
+                className="group relative flex flex-col w-full min-h-[15rem] bg-center bg-cover rounded-xl hover:shadow-lg transition bg-[url(https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3000&q=80)] dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
                 href="#"
               >
                 <div className="flex-auto p-4 md:p-6">
@@ -4740,7 +4740,7 @@ export default function Home() {
                     className="hs-accordion-toggle group pb-3 inline-flex items-center justify-between gap-x-3 w-full md:text-lg font-semibold text-start text-gray-800 rounded-lg transition hover:text-gray-500 dark:text-gray-200 dark:hover:text-gray-400 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
                     aria-controls="hs-basic-with-title-and-arrow-stretched-collapse-three"
                   >
-                    How does Preline's pricing work?
+                    How does Prelines pricing work?
                     <svg
                       className="hs-accordion-active:hidden block flex-shrink-0 w-5 h-5 text-gray-600 group-hover:text-gray-500 dark:text-gray-400"
                       xmlns="http://www.w3.org/2000/svg"
@@ -4875,10 +4875,10 @@ export default function Home() {
                     aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-five"
                   >
                     <p className="text-gray-800 dark:text-gray-200">
-                      If you lose the link for a theme you purchased, don't
-                      panic! We've got you covered. You can login to your
+                      If you lose the link for a theme you purchased, dont
+                      panic! Weve got you covered. You can login to your
                       account, tap your avatar in the upper right corner, and
-                      tap Purchases. If you didn't create a login or can't
+                      tap Purchases. If you didnt create a login or cant
                       remember the information, you can use our handy Redownload
                       page, just remember to use the same email you originally
                       made your purchases with.
@@ -5049,7 +5049,7 @@ export default function Home() {
                   Contact us
                 </h1>
                 <p className="mt-1 text-gray-600 dark:text-gray-400">
-                  We'd love to talk about how we can help you.
+                  Wed love to talk about how we can help you.
                 </p>
               </div>
               <div className="mt-12 grid items-center lg:grid-cols-2 gap-6 lg:gap-16">
@@ -5150,7 +5150,7 @@ export default function Home() {
                     </div>
                     <div className="mt-3 text-center">
                       <p className="text-sm text-gray-500">
-                        We'll get back to you in 1-2 business days.
+                        Well get back to you in 1-2 business days.
                       </p>
                     </div>
                   </form>
@@ -5180,7 +5180,7 @@ export default function Home() {
                         Knowledgebase
                       </h3>
                       <p className="mt-1 text-sm text-gray-500">
-                        We're here to help with any questions or code.
+                        Were here to help with any questions or code.
                       </p>
                       <a
                         className="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600"
@@ -5358,7 +5358,7 @@ export default function Home() {
           {/* End Col */}
           <div className="mt-3">
             <p className="text-gray-500">
-              We're part of the{" "}
+              Were part of the{" "}
               <a
                 className="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400"
                 href="#"
