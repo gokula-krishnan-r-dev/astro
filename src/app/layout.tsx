@@ -1,9 +1,7 @@
 "use client";
 
 import { Inter } from "next/font/google";
-// import "./globals.css";
-const inter = Inter({ subsets: ["latin"] });
-import { NextUIProvider } from "@nextui-org/react";
+import "./globals.css";
 
 export default function RootLayout({
   children,
@@ -12,9 +10,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <NextUIProvider>{children}</NextUIProvider>
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
